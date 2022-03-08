@@ -23,7 +23,46 @@
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Kittisak-Dev" height="30" width="40" /></a>
 </p>
 
-<h2 align="left"> Languages, Database and Tools :</h2>
+<!-- <details> -->
+
+    <summary align="right">More infos</summary>
+
+### **Languages :**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=0af)
+![Shell](https://img.shields.io/badge/-Shell-000?&logo=shell&logoColor=)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=sass&logoColor=)
+![Gulp](https://img.shields.io/badge/-Gulp-000?&logo=gulp&logoColor=)
+![Json](https://img.shields.io/badge/-Json-000?&logo=json&logoColor=)
+
+### **Tools :**
+
+![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode&logoColor=0af)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=node.js&logoColor=)
+
+### **Database :**
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=)
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=mariaDB&logoColor=)
+
+### **Frameworks**
+
+![Express](https://img.shields.io/badge/-Express-000?&logo=express&logoColor=)
+![React](https://img.shields.io/badge/-React-000?&logo=react&logoColor=)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-000?&logo=tailwindcss&logoColor=)
+![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=svelte&logoColor=)
+
+### **Operation System :**
+
+![Window10](https://img.shields.io/badge/-Window_10-000?&logo=windows&logoColor=0af)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux&logoColor=ef0)
+![Android](https://img.shields.io/badge/-Android-000?&logo=android&logoColor=0e0)
+
+</details>
 
 [<img alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][nolink] [<img alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][nolink] [<img alt="SASS" title="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][nolink] [<img alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][nolink] [<img alt="TypeScript" title="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][nolink] [<img alt="ReactJS" title="ReactJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][nolink] [<img alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][nolink] [<img alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][nolink] [<img alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][nolink] [<img alt="GitHub" title="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][nolink] [<img alt="NodeJS" title="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nolink] [<img alt="Gulp" title="Gulp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />][nolink] [<img alt="MongoDB" title="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][nolink]
 
